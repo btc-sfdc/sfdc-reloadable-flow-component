@@ -29,6 +29,8 @@ Installation
 You may install the unmanaged code from GitHub and make any desired adjustments.
 
 * [Deploy from Github](https://githubsfdeploy.herokuapp.com)
+<br></br>
+[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com)
 
 This will add a Lightning Component named `ReloadableFlowCmp` to your org (label in App Builder is **Flow - Reloadable**).
 
